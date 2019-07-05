@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="QUANLYTHUVIEN.BUSLayer.BUS" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICRAFAAgAAAAxQhQEBILIAAQglIAACAgAAiAwYYEAA=</HashCode>
+      <FileName>BUSLayer\BUS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.DangNhap" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gpEAAAACACAAABAAAICAAAACAAgAAAggAQAJAQAAEAA=</HashCode>
+      <FileName>DangNhap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.frm_Home">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gATCIRAAAGAASJEAAACAAEkiQoBAAAACAAQICQBNFAA=</HashCode>
+      <FileName>frm_Home.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.Program" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.DataAccessLayer.DAO" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICRAFAAgAAAAxQhQEBILIAAQglIAACAgAAiAwYYEAA=</HashCode>
+      <FileName>DataAccessLayer\DATA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.DataAccessLayer.DataProvider" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAMAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataAccessLayer\DataProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.Form_info.frm_TTTS" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIAAAAAAACCAChAAAACCAAACAAAgAAAAAAAQCAAAAAA=</HashCode>
+      <FileName>Form info\frm_TTTS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.GUI.frm_CS" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAAAAAQBDAAABQAAACDAACCAIBAAAoACBQAAQAAAAA=</HashCode>
+      <FileName>GUI\frm_CS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.GUI.frm_DG" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>coAAAAkYACBAiBQAAQCBAACCFAAAAAgQCAQAoQgGAEA=</HashCode>
+      <FileName>GUI\frm_DG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.GUI.frm_GT" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAUBAAAA=</HashCode>
+      <FileName>GUI\frm_GT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.GUI.frm_KS" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YoAAABkQBCBAgBQAAACBBACCNAAAQAoAGAQQAQAEAAA=</HashCode>
+      <FileName>GUI\frm_KS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.GUI.frm_NCC" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>coCAAAkYBCBBgBQAASCBgACCFMA4AAoAGAQAAQAEAAQ=</HashCode>
+      <FileName>GUI\frm_NCC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.GUI.frm_NXB" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>coAAAAkZBCBAkBQAAQCBAACCFAAAAAoACAQAAQAEABg=</HashCode>
+      <FileName>GUI\frm_NXB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.GUI.frm_PM" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EoAAAAkQDiBIgBQAIADDAACCFAAAAAoBCAQAAQAGgQA=</HashCode>
+      <FileName>GUI\frm_PM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.GUI.frm_PN" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EoAQAAkQDCBAgBQAAADBAACCFAEAAAoACAQQDQCGEAA=</HashCode>
+      <FileName>GUI\frm_PN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.GUI.frm_TG" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YoAAAAkQBCBAgBQIAACDAACCFAAAAAoQiAQIAQAEQEA=</HashCode>
+      <FileName>GUI\frm_TG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.GUI.frm_TK" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAiAQAAQAAAAA=</HashCode>
+      <FileName>GUI\frm_TK.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.GUI.frm_TS" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EoAAAAkQBCDAghQAIADDAADDNAIAAAoAjgQQCQAGAAA=</HashCode>
+      <FileName>GUI\frm_TS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.GUI.frm_TT" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>coAAABkYACBAgBQAAQCDAACKBAAAAAoUiAQAIQAGAEA=</HashCode>
+      <FileName>GUI\frm_TT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.GUI.frm_TTDG" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAIACAAABAAAQCBAAECAAAAAAAAgCAAgAgCAAg=</HashCode>
+      <FileName>GUI\frm_TTDG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.GUI.frm_TTTT" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAEAABAIACAAABQAAQCDAAECAAAAAAAAACAAAAACAAA=</HashCode>
+      <FileName>GUI\frm_TTTT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQQCIAAAAAAAAAAAAII=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.ValueObj.ChiTietMuon" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAgCAAAI=</HashCode>
+      <FileName>ValueObj\ChiTietMuon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.ValueObj.ChiTietNhap" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIAAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAABAiAAAQ=</HashCode>
+      <FileName>ValueObj\ChiTietNhap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.ValueObj.CuonSach" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAgAAAAAAAAAAEAAAAhAAAAAAAAACAAAA=</HashCode>
+      <FileName>ValueObj\CuonSach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.ValueObj.DocGia" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAEAAAgAAAAIAAAAAAEAAEAAAAAAAAgAggAIAM=</HashCode>
+      <FileName>ValueObj\DocGia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.ValueObj.KeSach" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAAACAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>ValueObj\KeSach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.ValueObj.NCC" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAgQAAgIEAAAAAEBAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>ValueObj\NCC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.ValueObj.NXB" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAEACAgAgAgIAAAAAAEAAAAAgAAAAAAAAAABAA=</HashCode>
+      <FileName>ValueObj\NXB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.ValueObj.PhieuMuon" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAABgAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAggAAYI=</HashCode>
+      <FileName>ValueObj\PhieuMuonTra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.ValueObj.PhieuNhap" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAEAQAABAEAAAAAAAAAAAAAAAAAABAAAAQQ=</HashCode>
+      <FileName>ValueObj\PhieuNhap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.ValueObj.TacGia" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAEAAgAhgBIAI=</HashCode>
+      <FileName>ValueObj\TacGia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.ValueObj.ThuThu" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABIBAAAUAAAgAAAAIAAAAAAEAAAAAgAAAAAgAgAAIQI=</HashCode>
+      <FileName>ValueObj\ThuThu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.ValueObj.TuaSach" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BoAEAACAAAAAAAAQAAAAAACAAAAEAAAQAAAAIAqABAA=</HashCode>
+      <FileName>ValueObj\TuaSach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QUANLYTHUVIEN.ValueObj.Viet" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAiAAAA=</HashCode>
+      <FileName>ValueObj\Viet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
